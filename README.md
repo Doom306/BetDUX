@@ -26,6 +26,20 @@ Discord bot made for use in the BetDEX Discord server. It was used for more than
     - [list of the betting markets available](https://the-odds-api.com/sports-odds-data/betting-markets.html)
     - [list of the bookmakers available](https://the-odds-api.com/sports-odds-data/bookmaker-apis.html#us-bookmakers)
 
+## Images
+### Dashboard
+![Dashboard](images/dashboard.png)
+### Betting: IN PROGRESS
+![Dashboard](images/inprogress.png)
+### Betting: WAITING FOR RESULTS (Match over)
+![Dashboard](images/resultswaiting.png)
+### Betting: RESULTS SHOWN
+![Dashboard](images/resultsshown.png)
+### Leaderboard
+![Dashboard](images/lb.png)
+### SQLite Database
+![Dashboard](images/sqllayout.png)
+
 ## Summary
 
 The product launch of the Education Clubhouse / BetDUX Bot will look like this:
